@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42ccc61b494f45d56a59",
+    "revision": "7485d01a598b33761586",
     "url": "/Troya-PWA-Live/css/app.6f541223.css"
   },
   {
@@ -456,12 +456,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Troya-PWA-Live/img/team9.e11b2daf.png"
   },
   {
-    "revision": "f6976488f1b16bf3851f9337603b71b0",
+    "revision": "ef29fdd3af1e47f8b969196b292c2aac",
     "url": "/Troya-PWA-Live/index.html"
   },
   {
-    "revision": "42ccc61b494f45d56a59",
-    "url": "/Troya-PWA-Live/js/app.72dbf51a.js"
+    "revision": "7485d01a598b33761586",
+    "url": "/Troya-PWA-Live/js/app.c7aa595b.js"
   },
   {
     "revision": "6876977e589992b8d81b",
