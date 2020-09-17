@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.152f666125af3635f15ef026ebdf30d9.js"
+  "/precache-manifest.99107adb3cd3758cbac331ff2de0d4d5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "troyaweb"});
