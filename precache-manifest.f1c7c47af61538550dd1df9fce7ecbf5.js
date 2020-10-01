@@ -400,7 +400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Troya-PWA-Live/img/temporada.65347d13.png"
   },
   {
-    "revision": "8e752bed09498b094e3b19963e3eb5c4",
+    "revision": "960ca3a404e9d4c655eb3a921c0c8f86",
     "url": "/Troya-PWA-Live/index.html"
   },
   {
