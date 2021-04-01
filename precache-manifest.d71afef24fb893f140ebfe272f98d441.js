@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b66985070510550f08a4",
+    "revision": "2cbf3a60386f1225d5dd",
     "url": "/Troya-PWA-Live/css/app.b4e9811d.css"
   },
   {
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Troya-PWA-Live/img/pTrainer.af5ce76c.png"
   },
   {
-    "revision": "52d776e7e6a58cfa2d9aa464b71e05e9",
-    "url": "/Troya-PWA-Live/img/player1.52d776e7.png"
+    "revision": "103b3083248e76aabcb6e3d01b3e7f40",
+    "url": "/Troya-PWA-Live/img/player1.103b3083.png"
   },
   {
     "revision": "ff797e191bed1b0ae19b8ffc7f459864",
@@ -400,12 +400,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Troya-PWA-Live/img/temporada.65347d13.png"
   },
   {
-    "revision": "b53b5667145856b604bcd6ce6e5b98f3",
+    "revision": "567461c0027b6b0708ff58461f32d5b0",
     "url": "/Troya-PWA-Live/index.html"
   },
   {
-    "revision": "b66985070510550f08a4",
-    "url": "/Troya-PWA-Live/js/app.9bce8c79.js"
+    "revision": "2cbf3a60386f1225d5dd",
+    "url": "/Troya-PWA-Live/js/app.429d8690.js"
   },
   {
     "revision": "4fbf56584ca7fd32b625",
