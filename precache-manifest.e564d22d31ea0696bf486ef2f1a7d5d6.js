@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbc5bd0d6b0417d33877",
+    "revision": "48dacf2913a91679b6fe",
     "url": "/Troya-PWA-Live/css/app.b4e9811d.css"
   },
   {
@@ -400,12 +400,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Troya-PWA-Live/img/temporada.65347d13.png"
   },
   {
-    "revision": "d1bc8a9d35d9731261d1f75fa477d0ea",
+    "revision": "56a1bbf474f64a0381ec154b16a7109e",
     "url": "/Troya-PWA-Live/index.html"
   },
   {
-    "revision": "dbc5bd0d6b0417d33877",
-    "url": "/Troya-PWA-Live/js/app.dc11b6ee.js"
+    "revision": "48dacf2913a91679b6fe",
+    "url": "/Troya-PWA-Live/js/app.907b7b25.js"
   },
   {
     "revision": "4fbf56584ca7fd32b625",
